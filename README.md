@@ -11,6 +11,8 @@ Datasheet: [github.com/sparkfun/BMP180_Breakout/blob/master/BMP180 Datasheet V2.
 
 Github repository: [github.com/sparkfun/BMP180_Breakout](https://github.com/sparkfun/BMP180_Breakout)
 
+Another page for help: https://learn.sparkfun.com/tutorials/bmp180-barometric-pressure-sensor-hookup-
+
 ###Arduino library installation:
 
 This archive contains an Arduino library and example sketch showing how to use this sensor. The library must be installed onto your computer in order for the example code to work correctly.
